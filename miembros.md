@@ -17,3 +17,4 @@
 * Wasp
 * Antman
 * Nick Fury
+* Spaidi
